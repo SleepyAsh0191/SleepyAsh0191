@@ -1,4 +1,4 @@
-### Hi there 👋
+[![SleepyAsh0191's GitHub stats](https://github-readme-stats.vercel.app/api?username=SleepyAsh0191)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **SleepyAsh0191/SleepyAsh0191** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
