@@ -1,4 +1,4 @@
-[![SleepyAsh0191的统计数据](https://github-readme-stats.vercel.app/api?username=SleepyAsh0191)](https://github.com/anuraghazra/github-readme-stats)
+[![SleepyAsh0191的统计数据](https://github-readme-stats.vercel.app/api?username=SleepyAsh0191&locale=cn)](https://github.com/anuraghazra/github-readme-stats)
 
 I'm BLACKALiCE, a.k.a SleepyAsh#0191,BlackNeko,wuhankun
 
