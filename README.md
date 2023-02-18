@@ -9,3 +9,9 @@ B站： [舞晗坤](https://space.bilibili.com/16494399)
 
 #### 快速导航
 [羊了个羊后端](https://github.com/SleepyAsh0191/sheep-n-sheep-backend)
+
+[原神中英日辞典](https://genshin-dictionary.com/zh-CN/)
+
+[Yuban-Network（原Genshin-Yuban）](https://t.me/Yuban_NetWork)
+
+[Akebi,rip](akebi.rip)
