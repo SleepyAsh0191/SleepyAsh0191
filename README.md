@@ -14,4 +14,4 @@ B站： [舞晗坤](https://space.bilibili.com/16494399)
 
 [Yuban-Network（原Genshin-Yuban）](https://t.me/Yuban_NetWork)
 
-[Akebi,rip](akebi.rip)
+[Akebi.rip](akebi.rip)
