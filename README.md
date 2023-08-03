@@ -2,7 +2,7 @@
 
 I'm BLACKALiCE, a.k.a SleepyAsh#0191,BlackNeko,wuhankun
 
-<img src="https://osu-sig.vercel.app/card?user=MadCroiX&mode=std&blur=6&animation=true&mini=true" />
+<!--img src="https://osu-sig.vercel.app/card?user=MadCroiX&mode=std&blur=6&animation=true&mini=true" /-->
 
 MCBBS: [Nobimaru](https://www.mcbbs.net/home.php?mod=space&uid=1836576)
 B站： [舞晗坤](https://space.bilibili.com/16494399)  
